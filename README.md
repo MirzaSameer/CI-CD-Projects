@@ -1,1 +1,6 @@
-# CI-CD-Project
+![Screenshot from 2024-01-01 08-13-57](https://github.com/MirzaSameer/CI-CD-Projects/assets/97332699/b09535cc-fd7c-4016-b1c1-b4f5e5c1ec3b)
+![Screenshot from 2024-01-01 08-14-06](https://github.com/MirzaSameer/CI-CD-Projects/assets/97332699/683e617e-9c22-44a9-ba58-be2464393699)
+![Screenshot from 2024-01-01 08-15-05](https://github.com/MirzaSameer/CI-CD-Projects/assets/97332699/877bcf97-df18-4d19-b01d-c26d2b12f083)
+![Screenshot from 2024-01-01 08-16-28](https://github.com/MirzaSameer/CI-CD-Projects/assets/97332699/6c5549e1-493a-4672-b7bf-bb9eaf93b0c3)
+![Screenshot from 2024-01-01 08-17-48](https://github.com/MirzaSameer/CI-CD-Projects/assets/97332699/3b69ed46-ccc0-4402-9e46-be48b604edbb)
+![Screenshot from 2024-01-01 08-23-25](https://github.com/MirzaSameer/CI-CD-Projects/assets/97332699/a17687f5-d8a9-4871-aff4-9eb8333fd8f6)
